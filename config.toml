@@ -1,4 +1,8 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Cooking School"
 theme = "lanyon"
+
+[params]
+  title = "Untitled"
+  tagline = "A blog"
+  sidebarDescription = "A little bit of writing."
