@@ -1,8 +1,8 @@
-baseURL = "http://example.org/"
+baseURL = "http://goingoffrecipe.com/"
 languageCode = "en-us"
 theme = "lanyon"
 
 [params]
-  title = "Untitled"
+  title = "Going Off Recipe"
   tagline = "A blog"
   sidebarDescription = "A little bit of writing."
