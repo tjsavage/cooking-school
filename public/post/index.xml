@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Prepping</title>
+      <link>http://example.org/post/prepping/</link>
+      <pubDate>Sun, 03 Jun 2018 17:43:44 -0700</pubDate>
+      
+      <guid>http://example.org/post/prepping/</guid>
+      <description>I never thought I&amp;rsquo;d be a dropout.</description>
+    </item>
+    
+    <item>
       <title>Three</title>
       <link>http://example.org/post/three/</link>
       <pubDate>Sun, 03 Jun 2018 17:43:44 -0700</pubDate>
