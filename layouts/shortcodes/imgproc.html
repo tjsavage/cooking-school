@@ -8,6 +8,8 @@
 {{ .Scratch.Set "image" ($original.Resize $options) }}
 {{ else if eq $command "Fill"}}
 {{ .Scratch.Set "image" ($original.Fill $options) }}
+{{ else if eq $command "Rotate"}}
+{{ .Scratch.Set "image" ($original.Resize $options)}}
 {{ else if eq $command "Original"}}
 {{ .Scratch.Set "image" ($original) }}
 {{ else }}
