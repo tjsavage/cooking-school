@@ -4,5 +4,5 @@ theme = "lanyon"
 
 [params]
   title = "Going Off Recipe"
-  tagline = "A blog"
+  tagline = ""
   sidebarDescription = "A little bit of writing."
