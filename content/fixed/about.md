@@ -6,4 +6,6 @@ sidebar: true
 weight: -1
 ---
 
-I'm writing things here.
+Hey, I'm Taylor. In May 2018 I was a Product Manager at Google, and in June through July I was a student at [Le Cordon Bleu Paris](https://www.cordonbleu.edu/home/en). Then I went to business school and probably straight back into corporate life.
+
+But for a few weeks I did something I loved just for the hell of it. And I wrote a little about it.
