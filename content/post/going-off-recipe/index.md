@@ -23,7 +23,7 @@ I love to cook, but my cooking has admittedly always been firmly rooted in recip
 
 There is safety though in following the recipe. Recipes let you strive for the platonic ideal they depict, while providing a safety net for when it inevitably doesn't all quite work out. The timing is never right for an experiment - you don't want your "personal touch" ruining a dinner party. And the last thing you want, after sweating over a hot stove for an hour, is to throw in an additional element of risk.
 
-Diverging from the recipe means fully shouldering the burden of your creative success or failure. Going off recipe takes technique, taste, experience, and most of all a bullish sort of confidence - to think "I can do better than this."
+Diverging from the recipe means fully shouldering the burden of your creative success or failure. Going off recipe takes technique, taste, experience, and a bullish sort of confidence - to think "I can do better than this." And it requires truly understanding and appreciating why the recipe is the way it is in the first place.
 
 I believe that cooking well - that being able to create rather than replicate - is one of a privileged set of skills that directly leads to a richer, fuller life, for you and everyone around you. 
 
