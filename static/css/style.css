@@ -1,3 +1,15 @@
 img {
   image-orientation: from-image;
 }
+
+.prev-post {
+  float: left;
+}
+
+.next-post {
+  float: right;
+}
+
+.new-note {
+ font-style: italic; 
+}

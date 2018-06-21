@@ -1,0 +1,4 @@
+{{ $posts := where .Data.Pages "Type" "in" "post" }}
+{{ range last 1 $posts }}
+  <p class="new-note">New? Begin at the <a href="{{ .Permalink }}">beginning.</a></p>
+{{ end }}

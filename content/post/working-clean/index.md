@@ -3,7 +3,7 @@ title: "Working Clean"
 date: 2018-06-15T22:56:00+01:00
 ---
 
-Depending on its position in a sentence, the word _"propre"_ in French can have two meanings.  It can mean "own," as in "I have my own restaurant" - _"J'ai mon propre restaurant."_ Or it can mean "clean" or "tidy," as in "my clean plate" - _"Mon assiette propre."_
+The word _"propre"_ in French has two meanings, depending on its position in a sentence.  It can mean "own," as in "I have my own restaurant" - _"J'ai mon propre restaurant."_ Or it can mean "clean" or "tidy," as in "my clean plate" - _"Mon assiette propre."_
 
 Working clean - working _"propre"_ - is the first and constant lesson of Le Cordon Bleu. As Chef reminds us: "the word _'propre'_ contains the word 'pro' - if you want to work like a pro, your work must be _'propre.'_"
 

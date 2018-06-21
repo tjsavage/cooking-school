@@ -1,0 +1,23 @@
+{{ partial "default_head.html" . }}
+
+<div class="post">
+  <h1 class="post-title">{{ .Title }}</h1>
+  <span class="post-date">{{ .Site.Params.DateForm | default "Jan 2, 2006" | .Date.Format }}</span>
+  {{ .Content }}
+</div>
+
+<div class="prev-next-posts">
+  {{ with .PrevInSection }}
+  <span class="prev-post">
+    <h4>Previous: <a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+  </span>
+  {{ end }}
+
+  {{ with .NextInSection }}
+  <span class="next-post">
+    <h4>Next: <a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+  </span>
+  {{ end }}
+</div>
+
+{{ partial "default_foot.html" . }}
