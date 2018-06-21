@@ -1,4 +1,35 @@
+{{ partial "default_head.html" . }}
+
 {{ $posts := where .Data.Pages "Type" "in" "post" }}
 {{ range last 1 $posts }}
   <p class="new-note">New? Begin at the <a href="{{ .Permalink }}">beginning.</a></p>
 {{ end }}
+
+<!-- Space delimited list of page types -->
+{{ $paginator := .Paginate (where .Data.Pages "Type" "in" "post") }}
+
+<div class="posts">
+  {{ range .Paginator.Pages }}
+    <div class="post">
+        <h1 class="post-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+        <span class="post-date">{{ .Site.Params.DateForm | default "Jan 2, 2006" | .Date.Format }}</span>
+        {{ .Content }}
+    </div>
+  {{ end }}
+</div>
+
+<div class="pagination">
+  {{ if $paginator.HasNext }}
+  <a class="pagination-item older" href="{{ $paginator.Next.URL }}">Older</a>
+  {{ else }}
+  <span class="pagination-item older">Older</span>
+  {{ end }}
+
+  {{ if $paginator.HasPrev }}
+  <a class="pagination-item newer" href="{{ $paginator.Prev.URL }}">Newer</a>
+  {{ else }}
+  <span class="pagination-item newer">Newer</span>
+  {{ end }}
+</div>
+
+{{ partial "default_foot.html" . }}
