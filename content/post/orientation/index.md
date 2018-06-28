@@ -15,7 +15,7 @@ They introduced the Chef instructors - the deeply experienced chefs, straight ou
 
 {{< img the-chefs >}}
 
-The name "Cordon Bleu" has been associated with excellent French cuisine for centuries. In the 1500's, King Henry III created _"L'Ordre du Saint-Esprit"_ as the highest order of chivalry in the French Kingdom. This exclusive crew of knights and nobles knew how to throw a good party and became renowned for their over-the-top banquets, bringing in their greatest chefs looking to impress the group. The group's symbol was a Cross of the Holy Spirit, worn by members at these banquets on a blue ribbon - a _"cordon bleu."_ The knights became known as "Les Cordon Bleus," and the term "cordon bleu" came to be associated with excellence in French cooking.
+The name "Cordon Bleu" has been associated with excellent French cuisine for centuries. In the 1500's, King Henry III created _"L'Ordre du Saint-Esprit"_ as the highest order of chivalry in the French Kingdom. This exclusive crew of knights and nobles knew how to throw a good party and became renowned for their over-the-top banquets, bringing in their greatest chefs looking to impress. The group's symbol was a Cross of the Holy Spirit, worn by members at these banquets on a blue ribbon - a _"cordon bleu."_ The knights became known as _"Les Cordon Bleus,"_ and the term "cordon bleu" came to be associated with excellence in French cooking.
 
 Le Cordon Bleu as a culinary institution has been around since 1895, when French journalist Marthe Distel began writing a weekly culinary magazine, _"La Cuisinière Cordon Bleu."_ A small cooking school was started later that year, and has grown to be the pre-eminent school for training aspiring chefs in the French culinary tradition.
 
@@ -31,7 +31,7 @@ In Demo, students watch a Chef Instructor prepare a handful of different dishes,
 
 Then in the following Practical, students cook the dishes themselves at individual work stations, ultimately presenting their plate to the chef at the end of the class for evaluation. 
 
-The classes are taught all in French, with a translator in the room during the Demo classes to translate after the chef to English. At orientation, we are given a massive binder full of each of the "recipes" - just ingredient lists and measurements, with blank space below for our notes - and a glossary of hundreds of French cooking terms.
+The classes are taught all in French, with a translator in the room during the Demo classes to translate after the chef to English. At orientation, we are given a binder full of each of the "recipes" - just ingredient lists and measurements, with blank space below for our notes - and a glossary of hundreds of French cooking terms.
 
 The executive chef closed the proceedings: "I don't do much except eat what you prepare, so it better be good."
 

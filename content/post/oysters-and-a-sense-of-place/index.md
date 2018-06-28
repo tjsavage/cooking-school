@@ -10,7 +10,7 @@ French winemakers have a concept called _terroir_ - a "sense of place" that is r
 
 Each plot of land that might grow a grape is unique. The way light strikes the field in summer, the way the temperature drops as the sun sinks below a ridge, the way the rain runs down this particular hillside and into the soil, the way the fog blankets a valley floor - a millenia of geological and environmental processes come together to produce each vine. And the wine from these grapes, in turn, becomes the ultimate expression of this specific spot on earth.
 
-Food can express its terroir too. Oysters take me straight to the sea. A dockside - clanging buoy bells, seagulls, a salty breeze, wood beams and rusted iron and tar - crammed into a shell.
+Food can express its terroir too. Oysters take me straight to the sea. A dockside - clanging buoy bells, seagulls, a salty breeze, wood beams and rusted iron and tar - packed into a shell.
 
 {{< img oysters1 >}}
 
@@ -18,7 +18,7 @@ Certain oysters reveal an even greater precision. Since the Roman era, the [Mare
 
 The _claires_ are oyster vineyards, with their own terrior. And oysters, as filter-feeders, are quite literally a distillation of their environment. Varying minerality, salinity, water temperature, tidal patterns, and local algae impart unique, distinguishing flavor to the oyster. _Claire_ oysters are designated by their ripening time and the density of their oysterbed - the _Pousse en Claire_, grown with the lowest density of oyster per square meter, are the sweetest and fleshiest. A _claire_ oyster doesn't just transport you to the sea - it brings you to a point in the southwest of France, a particular estuary, tended a specific way, where oysters have been harvested for thousands of years.
 
-So oysters made the perfect meal to settle into this new place. Alongside two great friends, we collected ourselves each behind a dozen _Fines des Claires_ and _Speciale des Claires_ and dove into the sea, at the famed [Huîtrerie Régis](https://www.tripadvisor.fr/Restaurant_Review-g187147-d1821374-Reviews-Huitrerie_Regis-Paris_Ile_de_France.html). A dozen _claire_ oysters and a Sancerre is about as "Bienvenue à France" as it gets.
+So oysters made the perfect meal to settle into this new place. Alongside two friends, we collected ourselves each behind a dozen _Fines des Claires_ and _Speciale des Claires_ and dove into the sea, at the famed [Huîtrerie Régis](https://www.tripadvisor.fr/Restaurant_Review-g187147-d1821374-Reviews-Huitrerie_Regis-Paris_Ile_de_France.html). A dozen _claire_ oysters and a Sancerre is about as "Bienvenue à France" as it gets.
 
 <img src="/post/oysters-and-a-sense-of-place/oysters2.jpg" />
 

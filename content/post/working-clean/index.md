@@ -5,7 +5,7 @@ date: 2018-06-15T22:56:00+01:00
 
 The word _"propre"_ in French can have two different meanings, depending on its position in a sentence.  It can mean "own," as in "I have my own restaurant" - _"J'ai mon propre restaurant."_ Or it can mean "clean" or "tidy," as in "my clean plate" - _"Mon assiette propre."_
 
-Working clean - working _"propre"_ - is the first and constant lesson of Le Cordon Bleu. As Chef reminds us: "the word _'propre'_ contains the word 'pro' - if you want to work like a pro, your work must be _'propre.'_"
+Working clean - working _"propre"_ - is the first and constant lesson of Le Cordon Bleu.
 
 In a _"propre"_ kitchen, everything has its place. 
 
@@ -30,11 +30,11 @@ A four induction-burner stovetop is behind us, with an oven below. We prepare ev
 
 Our work must also be done in a _"propre"_ manner.
 
-Chef says "in order to work well, you need to have the right method." The method for working _propre_ is "arrange, work, clean, repeat." 
+The chefs tell us "in order to work well, you need to have the right method." The method for working _propre_ is to "arrange, work, clean, repeat." 
 
 Only one thing is worked on at a time, with only the tools needed for that particular job on the work surface. 
 
-If you're washing your vegetables, you prepare your counter with only a tray of dirty vegetables on the left, a bowl of water in the ccenter, and a tray for clean vegetables lined with paper towel on the right. You wash one at a time, moving left to right: dirty vegetable goes in the water, is washed, and is placed on the clean tray. Trays are then wiped, water is emptied, work surface is wiped. 
+If you're washing your vegetables, you prepare your counter with only a tray of dirty vegetables on the left, a bowl of water in the center, and a tray for clean vegetables lined with paper towel on the right. You wash one at a time, moving left to right: dirty vegetable goes in the water, is washed, and is placed on the clean tray. Trays are then wiped, water is emptied, work surface is wiped. 
 
 Then you peel your vegetables - a tray of washed vegetables, a bowl for peelings, your paring knife, your peeler, and a tray for the peeled vegetables. Peel. Bowl is emptied and removed, knife and peeler in the drawer, work surface is wiped.  
 

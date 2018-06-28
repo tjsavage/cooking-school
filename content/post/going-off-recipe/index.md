@@ -3,7 +3,7 @@ title: "Going Off Recipe"
 date: 2018-06-08T10:13:10+01:00
 ---
 
-Nothing lies so innocently, and so completely, quite like a recipe.
+Nothing lies so innocently, and so completely,  like a recipe.
 
 Their first words are lies.
 
@@ -11,13 +11,13 @@ _"Prep time: 20 minutes"_ - except you'll be slaving over a cutting board for an
 
 Their instructions double down. Almost mocking.
 
-_"Dice the tomato,"_ read: _"smash your mealy tomato into seedy pulpy bits."_ _"Sautee until slightly softened"_ means _"make hot until still too crunchy or hopelessly limp, or even better, a little bit of both."_
+_"Dice the tomato,"_ read: _"smash your mealy tomato into pulpy bits."_ _"Sautée until slightly softened"_ means _"make hot until still too crunchy or hopelessly limp, or even better, a little bit of both."_
 
 But the worst recipe deceit is the photo. 
 
 A glistening, perfectly cross-hatched steak, dusted with maldon salt crystals like snowflakes, pristinely plated on stoneware on top of linen on top of rustic upcycled acacia. 
 
-Your meal will not look like this. Your Ikea place setting is not the canvas for this masterpiece. And carefully plating your food just before you eat it is like making your bed just before you sleep in it: you wouldn't regret it, but nobody got time for that.
+Your meal will not look like this. Your Ikea place setting is not the canvas for this masterpiece. And carefully plating your food just before you eat it is like making your bed just before you sleep in it: you wouldn't regret it, but who's got time for that.
 
 I love to cook, but my cooking has admittedly always been firmly rooted in recipe. Robotically parsing instructions from some food blogger like they've been handed down from on high. Cooking should be an act of creation, but following a recipe becomes an exercise in replication - where the best you can do is not screw up. You own your work to the extent a scribe, or a forger, owns their facsimile, but there is always a hollownesss to cooking from an anonymous recipe.
 
@@ -27,7 +27,7 @@ Diverging from the recipe means fully shouldering the burden of your creative su
 
 I believe that cooking well - that being able to create rather than replicate - is one of a privileged set of skills that directly leads to a richer, fuller life, for you and everyone around you. 
 
-That cooking well and living well are one and the same.
+That cooking well and living well are one and the same. That we follow recipes in our cooking, in our careers, in our lives, bland simulacrums of some long-forgotten seed of truth, lacking the confidence or wisdom to venture off the well-trod path.
 
 I also like collecting diplomas. 
 
