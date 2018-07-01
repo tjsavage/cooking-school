@@ -51,4 +51,4 @@ There are no French nationals in my class of nearly thirty at Le Cordon Bleu Par
 
 Cardinal Richelieu’s legacy is a topic of debate among historians. But it is well understood that he brought what was a loose collection of squabbling feudal lords together into a cohesive, singular, internally-peaceful state. 
 
-In the Edward Bulwer-Lytton‘s 1839 play “Richelieu; Or the Conspiracy,” Richelieu utters the famous line “The pen is mightier than the sword.” Perhaps the fork can be pretty mighty too.
+In Edward Bulwer-Lytton's 1839 play “Richelieu; Or the Conspiracy,” the Cardinal Richelieu character utters the famous line: “The pen is mightier than the sword.” Perhaps the fork can be pretty mighty too.
