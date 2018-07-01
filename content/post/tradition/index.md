@@ -23,13 +23,17 @@ Preparation styles of dishes have different names, depending on what vegetable i
 
 And history is preserved in dish names. _“Crème du Barry”_ - a lush, creamy, and pure white cauliflower soup - is said to have first been prepared by a chef in love with the mistress of King Louis XV, the Comtesse du Barry. Taken by the Comtesse’s fair skin - “white as the full moon” - the chef wanted to create a soup as elegant and light.
 
+{{< img dubarry >}}
+
 “Lamb Navarin,” a lamb stew with carrots and turnips, comes from the 1827 Battle of Navarino, where an alliance of French, Russian, and British troops handily defeated Egyptian and Ottoman forces during the Greek war of independence. The French troops supposedly mocked their opponents, calling them _“navets”_ - turnips - and a dish was created to commemorate the victory and wordplay.
+
+{{< img navarin >}}
 
 Vegetables cooked _“à l’anglaise”_ - “in the style of the English” - are boiled in heavily salted water, and served without sauce. The French saw British cuisine as comically simple, just having everything salted and boiled to mush, and so named this cooking style for their rivals across the Channel.
 
 And Napoleon supposedly hated his vegetables being served in different sizes and shapes. So the _“tourné”_ technique - “turning” vegetables like potatoes by cutting them into football-shaped oblongs - was created, and has remained a staple of elegant French dish presentation.
 
----
+{{< img tournage >}}
 
 French cuisine, like the French language, remains a unifying force for modern France; a preservation of its history, a point of pride for its culture, and recognized internationally for its elegance and structure. Cardinal Richlieu would be proud.
 
