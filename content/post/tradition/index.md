@@ -3,7 +3,7 @@ title: "Tradition"
 date: 2018-06-27T14:45:00+01:00
 ---
 
-> _“To understand cuisine, you have to understand the culture and way of life.”_ – Chef Guillame, at Le Cordon Bleu
+> _“To understand cuisine, you have to understand the culture and way of life.”_ – Chef Guillaume, at Le Cordon Bleu
 
 Founded in 1635 by Cardinal Richelieu, the _"Academie Français"_ is France’s national institution dedicated to the codification and preservation of the French language. Made up of forty members who hold office for life - modestly called _“Les Immortals”_ - the Academy is tasked “to work, with all possible care and diligence, to give certain rules to our language and to make it pure, eloquent, and capable of treating the arts and sciences.”
 
