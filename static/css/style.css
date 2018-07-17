@@ -13,3 +13,8 @@ img {
 .new-note {
  font-style: italic; 
 }
+
+h2 {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
