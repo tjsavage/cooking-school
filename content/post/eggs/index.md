@@ -5,7 +5,7 @@ date: 2018-07-06T12:15:00+01:00
 
 > "Pretending is failing. The truth is in the flavor." - Chef Vaca
 
-The best way to test a chef's meddle, as common wisdom goes here in France, is by having them prepare an omelette.
+The best way to test a chef's mettle, as common wisdom goes here in France, is by having them prepare an omelette.
 
 The [classic French omelette](https://www.seriouseats.com/2016/04/how-to-make-french-omelette.html) is hardly recognizable next to the fluffy, cakey, slightly-browned, once-folded, stuffed-to-the-brim versions we get at diners and restaurants in the US. 
 
