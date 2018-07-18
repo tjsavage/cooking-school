@@ -24,7 +24,7 @@ The eggs are swirled and cooked just until they set on the bottom, then rolled f
 
 We had multiple practical sessions here at Le Cordon Bleu where we practiced making the classic French omelette. The challenge was immediately obvious. 
 
-Eggs are extremely sensitive. Slightly too much heat, and the eggs will start to brown. An uneven swirl and the eggs will wrinkle. Cooking too slowly, and not paying attention to the pan, and you'll end up with a thin crunchy crust around the edge. Imprefect whisking and you'll have flecks of white in your final product. We make dozens of omelettes, and can't achieve that perfect texture. The chef shakes his pan, seemingly at random, and a perfect omelette comes out in 20 seconds.
+Eggs are extremely sensitive. Slightly too much heat, and the eggs will start to brown. An uneven swirl and the eggs will wrinkle. Cooking too slowly, and not paying attention to the pan, and you'll end up with a thin crunchy crust around the edge. Imperfect whisking and you'll have flecks of white in your final product. We make dozens of omelettes, and can't achieve that perfect texture. The chef shakes his pan, seemingly at random, and a perfect omelette comes out in 20 seconds.
 
 One student, struggling with the technique, asks the chef for tips to get better. The chef says "go to the store, buy two chickens, and practice."
 
@@ -66,7 +66,7 @@ _Oeufs en cocotte_ are eggs baked in a ramekin, with a runny yolk in the exact c
 
 Preheat the oven to 150°C (300°F). Butter the inside of a ramekin, and season the base with salt and pepper. Place the ramekin in a pot of simmering water, such that the water comes part of the way up the sides, but not over the top.  Add the egg, and heat in the water while keeping the yolk in the center, until the whites slightly start to set and will hold the yolk in place. Transfer to the oven for 4-6 mins, until the whites are set and the yolk is still runny.
 
-_Oeufs en cocotte_ make for a simple breakfast, and a wonderful base for variation. Add some headed crème fraiche and chopped herbs. Serve with toasted bread for dipping.
+_Oeufs en cocotte_ make for a simple breakfast, and a wonderful base for variation. Add some heated crème fraiche and chopped herbs. Serve with toasted bread for dipping.
 
 **Sunny-side up eggs**
 
@@ -86,7 +86,7 @@ Where the scrambled eggs you get in the US will have large, fluffy curds, French
 
 Traditionally, French scrambled eggs are done in a baine-marie - a bowl placed over a pan of simmering water - to keep the heat perfectly low and the cooking slow. They can also be done in a stockpot - never a frying pan.
 
-The bottom of the pot or bowl should be lined with butter. Whisk the eggs, and add to the pot once the butter is melted. Stir constantly with a whisk over slow heat, bringing any egg curds that coagulate on the bottom of the pot up to create a perfectly even texture.
+The bottom of the pot or bowl should be lined with butter. Whisk the eggs, and add to the pot once the butter is melted. Stir constantly with a whisk over slow heat, bringing any egg curds that coagulate on the bottom of the pot up to create a perfectly even texture. Finish with more butter, because of course.
 
 The result should be a very fine-grained, creamy scramble - slightly flowing. Use a ring mold to plate, to achieve a perfect circle.
 
@@ -108,7 +108,7 @@ Brush egg yolk over a pastry crust or bread before baking - an "egg wash" - and 
 
 {{< img eggwash >}}
 
-Combine egg yolks with a bit of vinegar, mustard, and a neutral oil, and whisk in a neutral oil, and you have mayonnaise.
+Combine egg yolks with a bit of vinegar and mustard, and whisk in a neutral oil, and you have mayonnaise.
 
 Whisk egg yolks with a bit of water over low heat, and you have a "_sabayon."_ The _sabayon_ forms the basis for numerous classic French sauces, pastries, and desserts. The basic sabayon calls for about a tablespoon of water per yolk, whisked together over a bain-marie until it is thick, foamy, and runs in "ribbons" from a whisk.
 
