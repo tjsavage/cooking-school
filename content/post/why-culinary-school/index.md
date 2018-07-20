@@ -46,7 +46,7 @@ Cooking lets you travel the world, from the curries of India to the paellas of S
 
 Cooking lets you wander through time, from the traditional French recipes passed down through generations, to the cutting edge of molecular gastronomy and sous vide. I’ve met Vatel, Escoffier, and Childs through the pages of their books and their recipes.
 
-But I don't think any of this is why chefs cook. We cook to fill a void - and not just in our stomachs.
+But I don't think any of this is why chefs cook. Chefs cook to fill a void - and not just in the stomach.
 
 Cooking is one of our last remaining connections to the real. 
 
