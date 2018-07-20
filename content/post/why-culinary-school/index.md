@@ -14,7 +14,7 @@ Its corners are now fraying at the edges, its pages tell stories through the smu
 
 Its recipes are simple and quick to reproduce, its language casual and approachable - in stark contrast to the much more formal and complex recipes common in other cookbooks of its day.
 
-But at the heart of **The Joy of Cooking** lies tragedy. 
+But at the heart of *The Joy of Cooking* lies tragedy. 
 
 It was first published in 1931, during the depths of the Great Depression. Rombauer’s husband had just committed suicide, leaving her with two children and dwindling savings. 
 
@@ -22,13 +22,13 @@ The Joy of Cooking was not just a cookbook - it was a treatise on self-reliance 
 
 ---
 
-Where **Joy of Cooking** brought me into the light, Anthony Bourdain's **Kitchen Confidential** was my introduction to the equally-captivating dark side of the craft.
+Where *Joy of Cooking* brought me into the light, Anthony Bourdain's *Kitchen Confidential* was my introduction to the equally-captivating dark side of the craft.
 
-**Kitchen Confidential** was a no-holds-barred look into the real restaurant industry. It was an insider's guide to how restaurants actually ran - that orders for "well-done" meat would get the worst cuts, that fish on a Monday would often be specimens from the previous week's deliveries. 
+*Kitchen Confidential* was a no-holds-barred look into the real restaurant industry. It was an insider's guide to how restaurants actually ran - that orders for "well-done" meat would get the worst cuts, that fish on a Monday would often be specimens from the previous week's deliveries. 
 
 And it was a study of the people behind the stove. Bourdain's kitchens were pirate ships, staffed with misfits and bandits, wildly intense, often cruel, slightly masochistic, but relentlessly obsessive about good cooking.
 
-**Kitchen Confidential** made cooking cool. It was after reading **Kitchen Confidential** in high school that I decided I wanted to go to culinary school. I applied to attend Le Cordon Bleu at the same time as applying to "typical" American universities. I ended up abandoning the cooking dream, substituting my knives for a keyboard and studying computer science instead of culinary arts. But I never let go of my cooking passion, and finally this summer found my chance to check Le Cordon Bleu off my bucket list.
+*Kitchen Confidential* made cooking cool. It was after reading *Kitchen Confidential* in high school that I decided I wanted to go to culinary school. I applied to attend Le Cordon Bleu at the same time as applying to "typical" American universities. I ended up abandoning the cooking dream, substituting my knives for a keyboard and studying computer science instead of culinary arts. But I never let go of my cooking passion, and finally this summer found my chance to check Le Cordon Bleu off my bucket list.
 
 The day I landed in Paris to start culinary school, I found out Anthony Bourdain had committed suicide in France.
 
